@@ -1,3 +1,5 @@
-use imagequant::RGBA;
+// use imagequant::RGBA;
 
-pub fn get_quantized_image() -> RGBA {}
+// pub fn get_quantized_image() -> RGBA {
+//     RGBA
+// }
